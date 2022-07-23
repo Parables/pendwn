@@ -31,7 +31,7 @@ As at now, there are 209 repositories on my personal github acount including for
 
 Whether its a fork or an original project, it got there because I was once working on it.
 
-Sadly enough, none of these projects have seen the light of day as the sit on cold archieves or GitHub servers
+Sadly enough, none of these projects have seen the light of day as the sit on cold archives or GitHub servers
 instead of running on production servers available for end users.
 
 Instead of forcing myself to be disciplined, pendwn would allow me to throw everything I want/have to do at it,
@@ -43,6 +43,8 @@ and eventually reroute back so I don't totally abandon what I have started.
 It will allow me to track everything I do(and I mean everything), how much time I spend on things, and intelligently spread the time I have
 across multiple tasks so that I get more things done instead of spending months/years doing one thing or 
 abandoning them when they are out of sight.
+
+You can start with a bigger goal, then break it down into simpler achievable tasks.And pendwn will make sure they don't sit there in your todos list forever.
 
 Because it would be collecting lots of personal information, I belive making the source codes open source will allow anyone to figure
 out what pendwn does with your data.
